@@ -1,0 +1,80 @@
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\ApplicationInsights.config
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\csc.exe
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\vbc.exe
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Dhanalaxmi.PresentationLayer.dll.config
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Dhanalaxmi.PresentationLayer.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Dhanalaxmi.PresentationLayer.pdb
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\obj\Debug\Dhanalaxmi.PresentationLayer.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\obj\Debug\Dhanalaxmi.PresentationLayer.pdb
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\obj\Debug\Dhanalaxmi.PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\BLL Layer.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\CommonConnection.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\BLL Layer.pdb
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\CommonConnection.pdb
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\DataAccessLayer.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\DataAccessLayer.pdb
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\AjaxControlToolkit.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\ApplicationInsights.config
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\csc.exe
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\System.Collections.Immutable.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\System.Reflection.Metadata.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\vbc.exe
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\VBCSCompiler.exe
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\roslyn\VBCSCompiler.exe.config
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Dhanalaxmi.PresentationLayer.dll.config
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Dhanalaxmi.PresentationLayer.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Dhanalaxmi.PresentationLayer.pdb
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\AjaxControlToolkit.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\BLL Layer.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\CommonConnection.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.DependencyCollector.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.Web.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.WindowsServer.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.ApplicationInsights.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\DataAccessLayer.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\BLL Layer.pdb
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\CommonConnection.pdb
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.DependencyCollector.xml
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.Web.xml
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.AI.WindowsServer.xml
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.ApplicationInsights.xml
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\bin\DataAccessLayer.pdb
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\obj\Debug\Dhanalaxmi.PresentationLayer.csprojResolveAssemblyReference.cache
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\obj\Debug\Dhanalaxmi.PresentationLayer.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\Dhanalaxmi.PresentationLayer\obj\Debug\Dhanalaxmi.PresentationLayer.pdb

@@ -1,0 +1,66 @@
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\ApplicationInsights.config
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\csc.exe
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\vbc.exe
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\CommonConnection.dll.config
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\CommonConnection.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\CommonConnection.pdb
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.ApplicationInsights.xml
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\obj\Debug\CommonConnection.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\obj\Debug\CommonConnection.dll
+C:\Users\admin\Documents\MyProject\Dhanlaxmi_project\CommonConnection\obj\Debug\CommonConnection.pdb
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\ApplicationInsights.config
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\csc.exe
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\System.Collections.Immutable.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\System.Reflection.Metadata.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\vbc.exe
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\VBCSCompiler.exe
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\roslyn\VBCSCompiler.exe.config
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\CommonConnection.dll.config
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\CommonConnection.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\CommonConnection.pdb
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.DependencyCollector.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.Web.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.WindowsServer.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.ApplicationInsights.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.DependencyCollector.xml
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.Web.xml
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.AI.WindowsServer.xml
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.ApplicationInsights.xml
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\obj\Debug\CommonConnection.csprojResolveAssemblyReference.cache
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\obj\Debug\CommonConnection.dll
+D:\Data Backup\Documents\MyProject\Dhanlaxmi_project\CommonConnection\obj\Debug\CommonConnection.pdb

@@ -1,0 +1,142 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Dhanalaxmi.PresentationLayer.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="SiteMaster.css" rel="stylesheet" type="text/css" />
+    <link href="~/Style/Site.css" rel="stylesheet" type="text/css" />
+
+    <style type="text/css">
+
+            .nielsenlogo
+            {
+                background: url(../Images/Nielsen_Logo.png) no-repeat;
+              /*  width:135px;
+                height:48px;*/
+                width:127px;
+                height:50px;
+                margin-left:46px;
+                bottom:10px;
+        
+            }
+            .headertext
+            {
+                color: White;
+                font-size: 18px;
+                font-weight: bold;
+                margin-left: 212px;
+                margin-top: -30px;
+            }
+            .subheader1
+            {
+                padding-top:20px;height: 64px;
+            }
+            .subheader2
+            {
+                    vertical-align:top;
+                    height:50px;
+                    position:absolute;
+                    margin-left: 71%;
+                    margin-top: -5%;
+                    color:Red;
+            }
+            .subheader21
+            {
+            }
+            .subheader211
+            {
+                font-size:14px; font-family:Verdana;  color:Brown;font-weight: bold; margin-right: 140px;text-align: right;
+            }
+            .subheader22
+            {
+                    font-size:14px; font-family:Verdana;  color:Brown;font-weight: bold; 
+                    margin-bottom: 10px;
+                    margin-right: 46px;
+                    margin-top: -63px;
+                    text-align: right;
+                    position:relative;
+            }
+            .subheader3
+            {
+                    margin-top: -18px;
+                    position: absolute; 
+            }
+            .clearBoth
+            {
+                clear:both;
+            }
+            .button
+            {
+                background-color: #05aaea;
+                   color: White;
+                font-weight: bold;
+                    border-radius: 10px;
+                    height:40px;
+            }
+    </style>
+</head>
+<body>
+    
+    <form id="form1" runat="server">
+
+        <div class="page">
+        <div class="header">
+        
+              <div class="subheader1"> 
+                <%--<a href="frmHome.aspx"> <div class="nielsenlogo"> </div>  </a>         --%>
+              </div>
+         
+                 <div style="margin-top: -45px; margin-right: 150px; float: right;" id="divlogin" runat="server">
+                    <span style="color:White;font-fmaily:Verdana;font-size:12px;font-weight:bold;">Welcome
+                     <asp:Label ID="lblUserID" runat="server" Font-Bold="true"></asp:Label>
+                    </span>
+                    <br />
+                       <span style="color:White;font-fmaily:Verdana;font-size:12px;font-weight:bold;">Roles :
+                     <asp:Label ID="lblRoles" runat="server" Font-Bold="true"></asp:Label>
+                     </span>
+                     <br />
+                      <span style="color:White;font-fmaily:Verdana;font-size:12px;font-weight:bold;">Region :
+                     <asp:Label id="lblRegion" runat="server" Font-Bold="true"></asp:Label>
+                     <span></span>
+                    </span>
+                    <br />
+                  <%--  <asp:Label ID="lblUserID" runat="server" ForeColor="#1e97ce" Font-Bold="true"></asp:Label>--%>
+                 <%--   <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click" ForeColor="#e66e48">Logout</asp:LinkButton>--%>
+                </div>
+
+               <div class="clearBoth subheader3">
+                        <div class="headertext">
+                        Dhanalaxmi Corporation
+                        </div>
+                </div>
+
+               
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="Menu1" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>      
+                     <asp:MenuItem NavigateUrl="~/Home.aspx" Text="Home"/> 
+                     <asp:MenuItem NavigateUrl="~/PurchaseOrder.aspx"  Text ="PurchaseOrders"/>
+                     <asp:MenuItem NavigateUrl="~/Inventory.aspx" Text="Inventory"/>
+                     <asp:MenuItem Text="Finance"/>
+
+                 </Items>
+                </asp:Menu>
+            </div>
+        </div>
+
+            <br />
+
+        <div class="main">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1"  runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,45 @@
+﻿
+.body 
+{ 
+ background-color:white;
+ margin:10px 10px 10px 20px;
+ border : 1px #496077;
+ height:200px;
+}
+.header
+{
+ background-color:lightsteelblue;
+ margin:10px 10px 10px 20px;
+ height:100px;
+ 
+}
+.SideBar
+{
+ float: left;
+ width: 160px;
+ margin-left: 10px;
+ padding-top: 1em;
+  height:900px;
+}
+
+.menu
+{
+ padding:4px 6px 4px 8px; 
+}
+
+#Content
+{
+ padding-top: 1em;
+ margin: 0 12px 0 180px;
+ background-color:palevioletred;
+ overflow:hidden;
+}
+
+#Footer
+{
+ clear: both;
+ background-color: #62645C;
+ padding-bottom: 1em;
+ border-top: 1px solid #333;
+ padding-left: 200px;
+}
